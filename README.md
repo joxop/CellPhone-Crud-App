@@ -6,3 +6,5 @@ after registering a User must use his/her email along with the password used to 
 on the main page users are shown a variety of cellphones and prices which they can add to their shopping cart.
 in case the user decides to change their mind, their is clear button to clear the shopping cart.
 The User also has the option to Checkout, which would complete the transaction.
+
+this app was a college group prjected that was created before I knew how to use Git. I am now uploading this to keep as a copy of my first fully functional crud app.
